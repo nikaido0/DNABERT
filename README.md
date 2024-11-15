@@ -3,4 +3,4 @@
 2. 我测试使用的pre-trained DNABERT为DNABERT6在原文献github上有下载地址
 3. 项目下的test.sh为测试脚本，train.sh为训练脚本，img.png为测试得分，测试结果在examples/result/6下
 4. 其余代码与原文献代码一致
-5. 测试所使用的pytroch为与我本地CUDA版本相配的版本，请根据你CUDA版本安装相应的版本
+5. 测试所使用的pytroch为与我本地CUDA版本相配的版本，请根据你CUDA版本安装相应的版本，其余环境配置一样
