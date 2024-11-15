@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="DNABERT" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="DNABERT">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/projects/DNABERT-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengzhen@172.17.4.67:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/pengzhen/projects/DNABERT-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengzhen@172.17.4.67:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/pengzhen/projects/DNABERT-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengzhen@172.17.4.67:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data1/pengzhen/projects/DNABERT-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
